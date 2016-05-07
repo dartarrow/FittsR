@@ -3,6 +3,7 @@ colGrayWithAlpha = rgb(155, 155, 155, 100, maxColorValue = 255)
 colGrapNoAlpha = "#AAAAAA"
 colLightGray = "#cccccc"
 
+# !!! CHANGE THIS !!!!
 setwd("/Users/dartarrow/Projects/spheredata/newdata/")
 
 planarFiles1 = list.files(pattern="D3.*[:print:].csv")
